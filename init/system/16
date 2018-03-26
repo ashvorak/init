@@ -1,0 +1,12 @@
+for scheduled tasks in linux we can use "crontab" service
+there are following modes of it's usage:
+
+"crontab -l" to get information about existing scheduled file
+"crontab -r" to delete existing scheduled file
+"crontab -e" to edit scheduled file
+
+Some additional information can be found here:
+
+https://www.howtogeek.com/101288/how-to-schedule-tasks-on-linux-an-introduction-to-crontab-files/
+
+https://ru.wikipedia.org/wiki/Cron
