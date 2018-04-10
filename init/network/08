@@ -1,3 +1,0 @@
-firstly we have to get IP Address of domain and than use command whois
-host slash16.org
-whois 52.222.233.45 | grep "OrgName: "

@@ -1,3 +1,0 @@
-for generation some RSA key you can use command: ssh-keygen
-keys will be saved at: /home/user/.ssh/id_rsa
-public key will be saved in the same directory: /home/user/.ssh/id_rsa.pub
